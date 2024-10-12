@@ -1,0 +1,1 @@
+This project performs sentiment analysis on social media comments written in a code-mixed format of Tamil and English. The analysis classifies comments as either positive or negative. The project utilizes a combination of preprocessing techniques, linguistic tagging, and a language model to effectively handle the complexities of code-mixed language.
